@@ -3,9 +3,9 @@ C module 3
 
 EX NO-3)a)- Decimal to Binary.
 
-Date:19/10/2025
-Name: Vasanth S
-Ref no: 25017538
+Date:25/3/2026
+Name: Ritesh DP
+Ref no: 25015366
 
 AIM: To write a C program to convert a decimal number to binary number.
 
